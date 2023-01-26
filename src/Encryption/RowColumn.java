@@ -1,7 +1,4 @@
 package Encryption;
-
-import java.util.Locale;
-
 public class RowColumn {
 
     public static String encryptRowColumn(String plaintext, int numColumns)
